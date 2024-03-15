@@ -4,7 +4,7 @@ Este proyecto de ciencia de datos utiliza las tablas de UCI para realizar aprend
 
 ## Descripción
 
-En este proyecto, utilizaremos las tablas de UCI (nombre de la tabla) para aplicar técnicas de aprendizaje supervisado y no supervisado. El objetivo es analizar los datos, construir modelos predictivos y descubrir patrones ocultos en los datos.
+En este proyecto, utilizaremos las tablas de UCI (nombre de la tabla) para aplicar técnicas de aprendizaje supervisado. El objetivo es analizar los datos, construir modelos predictivos y descubrir patrones ocultos en los datos.
 
 ## Requisitos
 
